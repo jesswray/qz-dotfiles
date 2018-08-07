@@ -1,0 +1,24 @@
+"*":
+  core:
+    closeDeletedFileTabs: true
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 15
+    showInvisibles: true
+    softTabs: false
+  "exception-reporting":
+    userId: "d61c6bac-3882-406c-988c-f138021b9935"
+  "git-blame":
+    columnWidth: 372
+  "ide-php":
+    phpPath: "/usr/bin/php"
+  linter: {}
+  "linter-ui-default":
+    panelHeight: 137
+    showPanel: true
+  "php-debug":
+    showWelcome: false
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
